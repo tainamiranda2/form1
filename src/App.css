@@ -1,0 +1,10 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+form{
+  background: green;
+  color: white;
+  padding: 20px;
+}
